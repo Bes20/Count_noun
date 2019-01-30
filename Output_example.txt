@@ -1,0 +1,1 @@
+{"money": 5, "amp": 18, "interest": 3, "http": 6, "time": 7, "quot": 5, "rsquo": 7, "position": 3, "https": 7, "something": 3, "f16falcon": 4, "deal": 3}
